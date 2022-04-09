@@ -20,18 +20,19 @@
 
 # Project information
 site_name: Material for MkDocs
-site_url: https://squidfunk.github.io/mkdocs-material/
+site_url: https://da-eun.com/
 site_author: Martin Donath
 site_description: >-
-  Create a branded static site from a set of Markdown files to host the
-  documentation of your Open Source or commercial project
+  서버 비용을 줄이기 위하여 공동구매를 진행합니다.
 
 # Repository
 repo_name: squidfunk/mkdocs-material
 repo_url: https://github.com/squidfunk/mkdocs-material
 
 # Copyright
-copyright: Copyright &copy; 2016 - 2022 Martin Donath
+copyright: "다은 | 이헌기 | 010-3057-8326 | info@da-eun.com | (489O3)부산시 중구 망양로277번길 4(보수동1가)<br />
+사업자등록번호: 106-28-5134 | 통신판매업신고번호: 2020-부산중구-0181 | 개인정보보호책임자: 이헌기(010-3057-8326, info@da-eun.com)<br />
+Copyright &copy; 2022 Da-eun.com"
 
 # Configuration
 theme:
@@ -103,7 +104,7 @@ plugins:
 extra:
   analytics:
     provider: google
-    property: !ENV GOOGLE_ANALYTICS_KEY
+    property: G-FY2F328Y9K
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/squidfunk
@@ -158,66 +159,76 @@ markdown_extensions:
   - pymdownx.tilde
 
 # Page tree
+# nav:
+#   - Home: index.md
+#   - Getting started:
+#     - Installation: getting-started.md
+#     - Creating your site: creating-your-site.md
+#     - Publishing your site: publishing-your-site.md
+#     - Customization: customization.md
+#     - Browser support: browser-support.md
+#     - Philosophy: philosophy.md
+#     - Alternatives: alternatives.md
+#     - License: license.md
+#     - Changelog:
+#       - changelog/index.md
+#       - How to upgrade: upgrade.md
+#   - Setup:
+#     - Changing the colors: setup/changing-the-colors.md
+#     - Changing the fonts: setup/changing-the-fonts.md
+#     - Changing the language: setup/changing-the-language.md
+#     - Changing the logo and icons: setup/changing-the-logo-and-icons.md
+#     - Ensuring data privacy: setup/ensuring-data-privacy.md
+#     - Setting up navigation: setup/setting-up-navigation.md
+#     - Setting up site search: setup/setting-up-site-search.md
+#     - Setting up site analytics: setup/setting-up-site-analytics.md
+#     - Setting up social cards: setup/setting-up-social-cards.md
+#     - Setting up tags: setup/setting-up-tags.md
+#     - Setting up versioning: setup/setting-up-versioning.md
+#     - Setting up the header: setup/setting-up-the-header.md
+#     - Setting up the footer: setup/setting-up-the-footer.md
+#     - Adding a git repository: setup/adding-a-git-repository.md
+#     - Adding a comment system: setup/adding-a-comment-system.md
+#     - Building for offline usage: setup/building-for-offline-usage.md
+#     - Extensions:
+#       - setup/extensions/index.md
+#       - Python Markdown: setup/extensions/python-markdown.md
+#       - Python Markdown Extensions: setup/extensions/python-markdown-extensions.md
+#   - Reference:
+#     - reference/index.md
+#     - Abbreviations: reference/abbreviations.md
+#     - Admonitions: reference/admonitions.md
+#     - Annotations: reference/annotations.md
+#     - Buttons: reference/buttons.md
+#     - Code blocks: reference/code-blocks.md
+#     - Content tabs: reference/content-tabs.md
+#     - Data tables: reference/data-tables.md
+#     - Diagrams: reference/diagrams.md
+#     - Footnotes: reference/footnotes.md
+#     - Formatting: reference/formatting.md
+#     - Grids: reference/grids.md
+#     - Icons, Emojis: reference/icons-emojis.md
+#     - Images: reference/images.md
+#     - Lists: reference/lists.md
+#     - MathJax: reference/mathjax.md
+#   - Insiders:
+#     - insiders/index.md
+#     - Getting started:
+#       - Installation: insiders/getting-started.md
+#       - Changelog: insiders/changelog.md
+#   - Blog:
+#     - blog/index.md
+#     - 2021:
+#       - blog/2021/the-past-present-and-future.md
+#       - blog/2021/excluding-content-from-search.md
+#       - blog/2021/search-better-faster-smaller.md
+
 nav:
   - Home: index.md
-  - Getting started:
-    - Installation: getting-started.md
-    - Creating your site: creating-your-site.md
-    - Publishing your site: publishing-your-site.md
-    - Customization: customization.md
-    - Browser support: browser-support.md
-    - Philosophy: philosophy.md
-    - Alternatives: alternatives.md
-    - License: license.md
-    - Changelog:
-      - changelog/index.md
-      - How to upgrade: upgrade.md
-  - Setup:
-    - Changing the colors: setup/changing-the-colors.md
-    - Changing the fonts: setup/changing-the-fonts.md
-    - Changing the language: setup/changing-the-language.md
-    - Changing the logo and icons: setup/changing-the-logo-and-icons.md
-    - Ensuring data privacy: setup/ensuring-data-privacy.md
-    - Setting up navigation: setup/setting-up-navigation.md
-    - Setting up site search: setup/setting-up-site-search.md
-    - Setting up site analytics: setup/setting-up-site-analytics.md
-    - Setting up social cards: setup/setting-up-social-cards.md
-    - Setting up tags: setup/setting-up-tags.md
-    - Setting up versioning: setup/setting-up-versioning.md
-    - Setting up the header: setup/setting-up-the-header.md
-    - Setting up the footer: setup/setting-up-the-footer.md
-    - Adding a git repository: setup/adding-a-git-repository.md
-    - Adding a comment system: setup/adding-a-comment-system.md
-    - Building for offline usage: setup/building-for-offline-usage.md
-    - Extensions:
-      - setup/extensions/index.md
-      - Python Markdown: setup/extensions/python-markdown.md
-      - Python Markdown Extensions: setup/extensions/python-markdown-extensions.md
-  - Reference:
-    - reference/index.md
-    - Abbreviations: reference/abbreviations.md
-    - Admonitions: reference/admonitions.md
-    - Annotations: reference/annotations.md
-    - Buttons: reference/buttons.md
-    - Code blocks: reference/code-blocks.md
-    - Content tabs: reference/content-tabs.md
-    - Data tables: reference/data-tables.md
-    - Diagrams: reference/diagrams.md
-    - Footnotes: reference/footnotes.md
-    - Formatting: reference/formatting.md
-    - Grids: reference/grids.md
-    - Icons, Emojis: reference/icons-emojis.md
-    - Images: reference/images.md
-    - Lists: reference/lists.md
-    - MathJax: reference/mathjax.md
-  - Insiders:
-    - insiders/index.md
-    - Getting started:
-      - Installation: insiders/getting-started.md
-      - Changelog: insiders/changelog.md
-  - Blog:
-    - blog/index.md
-    - 2021:
-      - blog/2021/the-past-present-and-future.md
-      - blog/2021/excluding-content-from-search.md
-      - blog/2021/search-better-faster-smaller.md
+  - Intro: intro.md
+  - Co-buying: co-buying.md
+  - Price: price.md
+  - Support: support.md
+  - Contact: contact.md
+  - Privacy: privacy.md
+  - Terms: terms.md
