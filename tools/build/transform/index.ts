@@ -222,12 +222,13 @@ export function transformScript(
               contents: css,
               loader: "text"
             }
-          });
+          })
         }
       }
     ]
   }))
     .pipe(
+      catchError(() => EMPTY),
       switchMap(({ outputFiles: [file] }) => {
         const contents = file.text.split("\n")
         const [, data] = contents[contents.length - 2].split(",")
@@ -236,7 +237,6 @@ export function transformScript(
           map: Buffer.from(data, "base64")
         })
       }),
-      catchError(() => EMPTY),
       switchMap(({ js, map }) => {
         const file = digest(options.to, js)
         return concat(
