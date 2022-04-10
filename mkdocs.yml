@@ -236,3 +236,7 @@ nav:
   - Contact: contact.md
   - Privacy: privacy.md
   - Terms: terms.md
+
+# The footer displays a Made with Material for MkDocs notice to denote how the site was generated.
+extra:
+  generator: false
