@@ -19,15 +19,16 @@
 # IN THE SOFTWARE.
 
 # Project information
-site_name: Material for MkDocs
+site_name: 다은닷컴
 site_url: https://da-eun.com/
-site_author: Martin Donath
+site_author: Da-eun
 site_description: >-
   서버 비용을 줄이기 위하여 공동구매를 진행합니다.
 
 # Repository
-repo_name: squidfunk/mkdocs-material
-repo_url: https://github.com/squidfunk/mkdocs-material
+repo_name: stone-creator/mkdocs-material
+repo_url: https://github.com/stone-creator/mkdocs-material
+edit_uri: "edit/sc-main/docs/"
 
 # Copyright
 copyright: "다은 | 이헌기 | 010-3057-8326 | info@da-eun.com | (489O3)부산시 중구 망양로277번길 4(보수동1가)<br />
