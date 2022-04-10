@@ -18,46 +18,46 @@
 # FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
 # IN THE SOFTWARE.
 
-name: build
-on:
-  - push
-  - pull_request
+# name: build
+# on:
+#   - push
+#   - pull_request
 
-env:
-  NODE_VERSION: 14.x
+# env:
+#   NODE_VERSION: 14.x
 
-permissions:
-  contents: read
+# permissions:
+#   contents: read
 
-jobs:
-  build:
-    name: Build project
-    runs-on: ubuntu-latest
-    steps:
+# jobs:
+#   build:
+#     name: Build project
+#     runs-on: ubuntu-latest
+#     steps:
 
-      - name: Checkout repository
-        uses: actions/checkout@v3
+#       - name: Checkout repository
+#         uses: actions/checkout@v3
 
-      - name: Set up Node.js runtime
-        uses: actions/setup-node@v3
-        with:
-          node-version: ${{ env.NODE_VERSION }}
+#       - name: Set up Node.js runtime
+#         uses: actions/setup-node@v3
+#         with:
+#           node-version: ${{ env.NODE_VERSION }}
 
-      - name: Set up Node.js dependency cache
-        uses: actions/cache@v3
-        id: cache
-        with:
-          path: node_modules
-          key: ${{ runner.os }}-${{ hashFiles('**/package-lock.json') }}
+#       - name: Set up Node.js dependency cache
+#         uses: actions/cache@v3
+#         id: cache
+#         with:
+#           path: node_modules
+#           key: ${{ runner.os }}-${{ hashFiles('**/package-lock.json') }}
 
-      - name: Set up Node.js dependencies
-        if: steps.cache.outputs.cache-hit != 'true'
-        run: npm install
+#       - name: Set up Node.js dependencies
+#         if: steps.cache.outputs.cache-hit != 'true'
+#         run: npm install
 
-      - name: Check project
-        run: npm run check
+#       - name: Check project
+#         run: npm run check
 
-      - name: Build project
-        run: |
-          npm run build
-          git diff --name-only
+#       - name: Build project
+#         run: |
+#           npm run build
+#           git diff --name-only
