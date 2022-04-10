@@ -4,10 +4,10 @@
 
 | 항목 | 가격(월) | 오픈톡 |
 | --- | --- | --- |
-| :material-check: 4GB 메모리 \| 2코어 프로세서 \| 80GB SSD 디스크 \| 4TB 전송 | ~~149,000원~~ 119,000원 | [바로가기](https://open.kakao.com/o/ssnLDdae) |
-| :material-check: 8GB 메모리 \| 2코어 프로세서 \| 160GB SSD 디스크 \| 5TB 전송 | ~~199,000원~~ 159,000원 | [바로가기](https://open.kakao.com/o/ssnLDdae) |
-| :material-check: 16GB 메모리 \| 4코어 프로세서 \| 320GB SSD 디스크 \| 6TB 전송 | ~~299,000원~~ 239,000원 | [바로가기](https://open.kakao.com/o/ssnLDdae) |
-| :material-check: 32GB 메모리 \| 8코어 프로세서 \| 640GB SSD 디스크 \| 7TB 전송 | ~~499,000원~~ 399,000원 | [바로가기](https://open.kakao.com/o/ssnLDdae) |
+| :material-check: 4GB 메모리 \| 2코어 프로세서 \| 80GB SSD 디스크 \| 4TB 전송 | ~~150,000원~~ 120,000원 | [바로가기](https://open.kakao.com/o/ssnLDdae) |
+| :material-check: 8GB 메모리 \| 2코어 프로세서 \| 160GB SSD 디스크 \| 5TB 전송 | ~~200,000원~~ 160,000원 | [바로가기](https://open.kakao.com/o/ssnLDdae) |
+| :material-check: 16GB 메모리 \| 4코어 프로세서 \| 320GB SSD 디스크 \| 6TB 전송 | ~~300,000원~~ 240,000원 | [바로가기](https://open.kakao.com/o/ssnLDdae) |
+| :material-check: 32GB 메모리 \| 8코어 프로세서 \| 640GB SSD 디스크 \| 7TB 전송 | ~~500,000원~~ 400,000원 | [바로가기](https://open.kakao.com/o/ssnLDdae) |
 
 !!! danger "알림"
 
@@ -29,9 +29,9 @@
 
 | 항목 | 개수 | 가격 |
 | --- | --- | --- |
-| :material-check: 홈페이지 이전 | 홈페이지 1개 | 29,000원 |
-| :material-check: 데이터베이스 전용 서버 이전 | 데이터베이스 1개 | 29,000원 |
-| :material-check: 이메일 이전 | 메일박스 1개 | 29,000원 |
+| :material-check: 홈페이지 이전 | 홈페이지 1개 | 30,000원 |
+| :material-check: 데이터베이스 전용 서버 이전 | 데이터베이스 1개 | 30,000원 |
+| :material-check: 이메일 이전 | 메일박스 1개 | 30,000원 |
 
 ## 3. 환불
 
