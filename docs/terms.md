@@ -4,7 +4,7 @@ title: Terms
 
 # 서비스 이용 약관
 
-[[제10023호] 전자상거래 표준약관](https://www.ftc.go.kr/solution/skin/doc.html?fn=b5bbcffdef4f9e856121b2ba1c0089df8c1dac13565ee8e66ba6d0ab318c011f&rs=/fileupload/data/result/BBSMSTR_000000002320/)을 준수하며 다음 사항을 추가 및 변경합니다.
+[[제10023호] 전자상거래 표준약관](https://www.ftc.go.kr/solution/skin/doc.html?fn=b5bbcffdef4f9e856121b2ba1c0089df8c1dac13565ee8e66ba6d0ab318c011f&rs=/fileupload/data/result/BBSMSTR_000000002320/)을 준수하며 다음 사항을 추가합니다.
 
 ## 환불
 
