@@ -23,7 +23,11 @@ site_name: 다은닷컴
 site_url: https://da-eun.com/
 site_author: Da-eun
 site_description: >-
-  서버 비용을 줄이기 위하여 공동구매를 진행합니다.
+
+  서버에 대한 지식 없이도 서버를 이용할 수 있도록 관리형 서버 호스팅을 제공합니다.
+  전화나 문자, 카카오톡으로 요청하여 서버에 직접 접속하지 않고도 진행할 수 있습니다.
+  사용자, 웹사이트 이메일 등을 무제한 생성할 수 있습니다.
+  아마존 웹 서비스(aws)의 클라우드 서버를 이용합니다.
 
 # Repository
 repo_name: stone-creator/mkdocs-material
@@ -49,7 +53,7 @@ theme:
   search_index_only: true
 
   # Default values, taken from mkdocs_theme.yml
-  language: en
+  language: kr
   features:
     - content.code.annotate
     # - content.tabs.link
@@ -227,7 +231,6 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Intro: intro.md
-  - Co-buying: co-buying.md
   - Price: price.md
   - Support: support.md
   - Contact: contact.md
