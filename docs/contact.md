@@ -8,7 +8,7 @@ title: Contact
 
     이헌기   
     010-3057-8326   
-    info@da-eun.com
+    support@da-eun.com
 
 !!! question "문의하기"
 
