@@ -231,8 +231,8 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Intro: intro.md
-  - Price: price.md
   - Support: support.md
+  - Price: price.md
   - Contact: contact.md
   - Privacy: privacy.md
   - Terms: terms.md
