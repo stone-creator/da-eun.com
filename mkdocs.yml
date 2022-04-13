@@ -236,3 +236,6 @@ nav:
   - Contact: contact.md
   - Privacy: privacy.md
   - Terms: terms.md
+
+extra_css:
+  - stylesheets/extra.css
