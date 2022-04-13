@@ -12,4 +12,4 @@ title: Contact
 
 !!! question "문의하기"
 
-    [오픈톡 바로가기](https://open.kakao.com/o/sxBG2yae)
+    [카카오톡 문의](http://pf.kakao.com/_cSQxmb/chat)
