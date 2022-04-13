@@ -6,7 +6,7 @@ title: Contact
 
 !!! note "연락처"
 
-    :fontawesome-regular-user: 이헌기   
+    :octicons-server-24: 다은 호스팅   
     :material-phone-outline: 010-3057-8326   
     :material-email-outline: support@da-eun.com
 
