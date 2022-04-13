@@ -12,4 +12,4 @@ title: Contact
 
 !!! question "문의하기"
 
-    [카카오톡 문의](http://pf.kakao.com/_cSQxmb/chat)
+    [카카오톡 문의](http://pf.kakao.com/_lSexmb/chat)
