@@ -12,4 +12,4 @@ title: Contact
 
 !!! question "문의하기"
 
-    :material-chat-plus-outline:{ .heart } [카카오톡 문의](http://pf.kakao.com/_lSexmb/chat)
+    :material-chat-outline:{ .heart } [카카오톡 문의](http://pf.kakao.com/_lSexmb/chat)
