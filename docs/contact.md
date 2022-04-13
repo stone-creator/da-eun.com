@@ -6,10 +6,10 @@ title: Contact
 
 !!! note "연락처"
 
-    이헌기   
-    010-3057-8326   
-    support@da-eun.com
+    :fontawesome-regular-user: 이헌기   
+    :material-phone-outline: 010-3057-8326   
+    :material-email-outline: support@da-eun.com
 
 !!! question "문의하기"
 
-    [카카오톡 문의](http://pf.kakao.com/_lSexmb/chat)
+    :material-chat-plus-outline:{ .heart } [카카오톡 문의](http://pf.kakao.com/_lSexmb/chat)
