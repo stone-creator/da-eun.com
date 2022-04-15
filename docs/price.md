@@ -3,8 +3,8 @@
 !!! info "알림"
 
     - 할인금액은 첫 거래에만 적용됩니다.
-    - 아마존 웹 서비스(aws)의 서버를 이용합니다.
-    - 웹에이전시 호스팅 상세내용을 보려면 [여기를 클릭하세요.](detail.md)
+    - 7일내 불만족시 전액 환불합니다. [환불 안내 페이지:material-link-variant:](terms.md)
+    - 소프트웨어에 대한 상세내용은 [웹에이전시 호스팅 상세내용 페이지:material-link-variant:](detail.md)를 참조하세요.
 
 ## 1. 공유형 (Linux/Unix)
 
