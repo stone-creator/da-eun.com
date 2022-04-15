@@ -7,7 +7,7 @@ title: Contact
 !!! note "연락처"
 
     :octicons-server-24: 다은 호스팅   
-    :material-phone-outline: 010-3057-8326   
+    :material-phone-outline: 010-6836-5648   
     :material-email-outline: support@da-eun.com
 
 !!! question "문의하기"
