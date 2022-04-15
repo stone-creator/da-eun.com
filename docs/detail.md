@@ -1,21 +1,29 @@
 # 웹에이전시 호스팅 상세내용
 
-## 1. 공유형과 단독형 비교
+## 1. 서버
+
+| <div style="width: 300px;">항목</div> | <div style="width: 300px;">내용</div> |
+| :---:  | :---: |
+| **사양** | [가격 페이지:material-link-variant:](price.md) 참조 |
+| **IDC 위치** | [아마존 웹 서비스(aws):octicons-link-external-24:](https://aws.amazon.com/){target=_blank} |
 
 
-| <div style="width: 200px;">항목</div> | <div style="width: 200px;">공유형</div> | <div style="width: 200px;">단독형</div> |
-| :---:  | :---: | :---: |
-| **웹사이트 개수** | 무제한 | 무제한 |
-| **계정용량** | 10~40GB | 80~640GB |
-| **트래픽** | 0.8~3.2TB(월) | 4~7TB(월) |
-| **DB 개수** | 무제한 | 무제한 |
-| **DB 용량** | 계정용량에 포함 | 계정용량에 포함 |
-| **관리툴** | 무료제공 | 무료제공 |
-| **트래픽/용량 추가** | 없음 | 없음 |
-| **설치비** | 없음 | 없음 |
+## 2. 서비스
+
+| <div style="width: 300px;">항목</div> | <div style="width: 300px;">내용</div> |
+| :---:  | :---: |
+| **웹사이트 개수** | 무제한 |
+| **데이터베이스 개수** | 무제한 |
+| **데이터베이스 용량** | 계정용량에 포함 |
+| **이메일 개수** | 무제한 |
+| **이메일 용량** | 계정용량에 포함 |
+| **관리툴** | 포함 |
+| **웹로그 분석** | 포함 |
+| **phpMyAdmin** | 포함 |
+| **SSH/FTP/SFTP** | 사용가능 |
 
 
-## 2. 플랫폼
+## 3. 버전
 
 | <div style="width: 300px;">항목</div> | <div style="width: 300px;">버전</div> |
 | :---:  | :---: |
@@ -26,11 +34,8 @@
 | **MariaDB** | 10.6.x |
 | **DB 언어셋** |  UTF-8 |
 
-## 3. 소프트웨어
+!!! info "MariaDB"
 
-| <div style="width: 300px;">항목</div> | <div style="width: 300px;">내용</div> |
-| :---:  | :---: |
-| **SSH** | ✔️ |
-| **FTP/SFTP** | ✔️ |
-| **phpMyAdmin** | ✔️ |
-| **웹로그 분석** | ✔️ |
+	MariaDB[^1]는 MySQL과 호환되는 데이터베이스로 홈페이지를 수정할 필요가 없습니다.
+
+[^1]: [MariaDB - 위키백과, 우리 모두의 백과사전:octicons-link-external-24:](https://ko.wikipedia.org/wiki/MariaDB){target=_blank}
