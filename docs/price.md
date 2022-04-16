@@ -22,8 +22,9 @@
 | :material-check: CPU 2Core \| 메모리 8GB \| SSD 160GB \| 트래픽 800GB | 240,000원 |
 | :material-check: CPU 4Core \| 메모리 16GB \| SSD 320GB \| 트래픽 1.6TB | 480,000원 |
 | :material-check: CPU 8Core \| 메모리 32GB \| SSD 640GB \| 트래픽 3.2TB | 960,000원 |
-| :material-check: 용량 2GB 추가 | 10,000원 |
-| :material-check: 트래픽 1TB 추가 | 60,000원 |
+| :material-check: 트래픽 추가 | 60,000원(월)/1TB |
+| :material-check: 용량 추가 | 10,000원(월)/2GB |
+| :material-check: 용량 추가 작업비 | 30,000원 |
 
 ## 3. 웹사이트 이전
 
@@ -31,3 +32,11 @@
 | :---: | :---: | :---: |
 | :material-check: 오류 기술 지원 | - | 무료 |
 | :material-check: 이전 요청 | 웹사이트 1개 | 30,000원 |
+
+
+## 4. 백업 복구
+
+| <div style="width: 200px;">항목</div> | <div style="width: 200px;">개수</div> | <div style="width: 200px;">가격(월)</div> |
+| :---: | :---: | :---: |
+| :material-check: 내부 백업 복구 | 무제한 | 무료 |
+| :material-check: 외부 백업 복구 | 홈페이지 1개 | 33,000원 |
