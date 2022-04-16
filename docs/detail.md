@@ -44,7 +44,7 @@
 
 ## 4. 백업
 
-| <div style="width: 200px;">항목</div> | <div style="width: 200px;">내부 백업</div> | <div style="width: 200px;">외부 백업</div> |
+| <div style="width: 200px;">항목</div> | <div style="width: 200px;">내부 백업</div> | <div style="width: 200px;">외부 백업(선택사항)</div> |
 | :---:  | :---: | :---: |
 | **백업 대상** | 웹사이트 | 서버 |
 | **백업 주기** | 1일 1회, 7일 보관 | 1일 1회, 7일 보관 |
