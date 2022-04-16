@@ -8,12 +8,11 @@
 
 ## 1. 공유형
 
-| <div style="width: 140px;">항목</div> | <div style="width: 140px;">용량(SSD)</div> | <div style="width: 140px;">트래픽</div> | <div style="width: 140px;">가격(월)</div> |
-| :---: | :---: | :---: | :---: |
-| :material-check: 기본 | 2GB | 120GB | 17,500원 |
-| :material-check: 용량 추가 | 2GB | - | 10,000원 |
-| :material-check: 트래픽 추가 | - | 120GB | 10,000원 |
-| :material-check: 외부 백업 포함 ||||
+| <div style="width: 100px;">항목</div> | <div style="width: 100px;">용량(SSD)</div> | <div style="width: 100px;">트래픽</div> | <div style="width: 100px;">가격(월)</div> | <div style="width: 110px;">외부 백업(선택사항)</div> |
+| :---: | :---: | :---: | :---: | :---: |
+| :material-check: 기본 | 2GB | 120GB | 17,500원 | 10,000원/1GB |
+| :material-check: 용량 추가 | 2GB | - | 10,000원 | 10,000원/1GB |
+| :material-check: 트래픽 추가 | - | 120GB | 10,000원 ||
 
 ## 2. 단독형
 
