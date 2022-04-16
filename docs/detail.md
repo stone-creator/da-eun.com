@@ -6,7 +6,6 @@
 | :---:  | :---: |
 | **IDC 위치** | [아마존 웹 서비스(aws):octicons-link-external-24:](https://aws.amazon.com/){target=_blank} |
 
-
 ## 2. 서비스
 
 | <div style="width: 300px;">항목</div> | <div style="width: 300px;">내용</div> |
@@ -27,8 +26,6 @@
 | **관리툴** | 포함 |
 | **백업툴** | 포함 |
 | **웹로그 분석** | 포함 |
-| **백업** | 1일 1회, 7일 보관 |
-
 
 ## 3. 버전
 
@@ -44,5 +41,16 @@
 !!! info "MariaDB"
 
 	MariaDB[^1]는 MySQL과 호환되는 데이터베이스로 홈페이지를 수정할 필요가 없습니다.
+
+## 4. 백업
+
+| <div style="width: 200px;">항목</div> | <div style="width: 200px;">내부 백업</div> | <div style="width: 200px;">외부 백업</div> |
+| :---:  | :---: | :---: |
+| **백업 대상** | 웹사이트 | 서버 |
+| **백업 주기** | 1일 1회, 7일 보관 | 1일 1회, 7일 보관 |
+| **복구 방법** | 셀프 | 요청 |
+| **복구 가격** | 무료 | [유료:material-link-variant:](http://127.0.0.1:8000/price/#4){target=_blank} |
+
+
 
 [^1]: [MariaDB - 위키백과, 우리 모두의 백과사전:octicons-link-external-24:](https://ko.wikipedia.org/wiki/MariaDB){target=_blank}
