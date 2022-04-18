@@ -23,10 +23,3 @@
 | :material-check: CPU 4Core \| 메모리 16GB \| SSD 320GB \| 트래픽 1.6TB | 480,000원 |
 | :material-check: CPU 8Core \| 메모리 32GB \| SSD 640GB \| 트래픽 3.2TB | 960,000원 |
 | :material-check: 트래픽 추가 | 60,000원(월)/1TB |
-
-## 3. 웹사이트 이전
-
-| <div style="width: 200px;">내용</div> | <div style="width: 200px;">개수</div> | <div style="width: 200px;">가격</div> |
-| :---: | :---: | :---: |
-| :material-check: 오류 기술 지원 | - | 무료 |
-| :material-check: 이전 요청 | 웹사이트 1개 | 30,000원 |
