@@ -10,9 +10,11 @@
 
 | <div style="width: 130px;">항목</div> | <div style="width: 130px;">용량(SSD)</div> | <div style="width: 130px;">트래픽</div> | <div style="width: 130px;">가격(월)</div> |
 | :---: | :---: | :---: | :---: |
-| :material-check: 기본 | 2GB | 120GB | 17,500원 |
-| :material-check: 용량 추가 | 2GB | - | 10,000원 |
-| :material-check: 트래픽 추가 | - | 120GB | 10,000원 |
+| :material-check: 기본 단위 | 1GB | 60GB | 10,000원 |
+
+!!! note "추가"
+
+    공유형의 용량과 트래픽의 추가는 기본 단위의 배수로 추가가 가능합니다.
 
 ## 2. 단독형
 
