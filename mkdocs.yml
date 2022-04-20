@@ -235,6 +235,10 @@ nav:
   - Contact: contact.md
   - Privacy: privacy.md
   - Terms: terms.md
+  - Blog:
+    - blog/index.md
+    - 2022:
+      - blog/2022/재능마켓.md
 
 extra_css:
   - stylesheets/extra.css
