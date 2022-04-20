@@ -6,7 +6,7 @@ title: Contact
 
 !!! note "연락처"
 
-    :octicons-server-24: 다은 호스팅   
+    :octicons-server-24: 다은 웹에이전시 호스팅   
     :material-phone-outline: 010-6836-5648   
     :material-email-outline: support@da-eun.com
 
