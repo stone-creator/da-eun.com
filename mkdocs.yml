@@ -230,10 +230,10 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  - Intro: intro.md
-  - Detail: detail.md
+  # - Intro: intro.md
   - Price: price.md
-  - Support: support.md
+  - Detail: detail.md
+  # - Support: support.md
   - Docs: docs.md
   - Contact: contact.md
   - Privacy: privacy.md
