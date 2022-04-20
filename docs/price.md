@@ -24,8 +24,3 @@
 | :material-check: CPU 2Core \| 메모리 8GB \| SSD 160GB \| 트래픽 5TB | 240,000원 |
 | :material-check: CPU 4Core \| 메모리 16GB \| SSD 320GB \| 트래픽 6TB | 480,000원 |
 | :material-check: CPU 8Core \| 메모리 32GB \| SSD 640GB \| 트래픽 7TB | 960,000원 |
-| :material-check: 추가 트래픽 | 240,000원/1TB |
-
-!!! note "트래픽 추가"
-
-    보통의 경우 트래픽 추가 보다 단독형 서버를 하나 더 추가하는 것이 더 낫습니다.
