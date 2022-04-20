@@ -10,9 +10,9 @@
 
 | <div style="width: 130px;">항목</div> | <div style="width: 130px;">용량(SSD)</div> | <div style="width: 130px;">트래픽</div> | <div style="width: 130px;">가격(월)</div> |
 | :---: | :---: | :---: | :---: |
-| :material-check: 기본 단위 | 1GB | 60GB | 10,000원 |
+| :material-check: 기본 | 5GB | 50GB | 12,000원 |
 
-!!! note "추가"
+!!! note "용량과 트래픽 추가"
 
     공유형의 용량과 트래픽의 추가는 기본 단위의 배수로 추가가 가능합니다.
 
@@ -20,8 +20,12 @@
 
 | <div style="width: 300px;">사양</div> | <div style="width: 300px;">가격(월)</div> |
 | :---: | :---: |
-| :material-check: CPU 2Core \| 메모리 4GB \| SSD 80GB \| 트래픽 400GB | 120,000원 |
-| :material-check: CPU 2Core \| 메모리 8GB \| SSD 160GB \| 트래픽 800GB | 240,000원 |
-| :material-check: CPU 4Core \| 메모리 16GB \| SSD 320GB \| 트래픽 1.6TB | 480,000원 |
-| :material-check: CPU 8Core \| 메모리 32GB \| SSD 640GB \| 트래픽 3.2TB | 960,000원 |
-| :material-check: 트래픽 추가 | 60,000원(월)/1TB |
+| :material-check: CPU 2Core \| 메모리 4GB \| SSD 80GB \| 트래픽 4TB | 120,000원 |
+| :material-check: CPU 2Core \| 메모리 8GB \| SSD 160GB \| 트래픽 5TB | 240,000원 |
+| :material-check: CPU 4Core \| 메모리 16GB \| SSD 320GB \| 트래픽 6TB | 480,000원 |
+| :material-check: CPU 8Core \| 메모리 32GB \| SSD 640GB \| 트래픽 7TB | 960,000원 |
+| :material-check: 추가 트래픽 | 240,000원/1TB |
+
+!!! note "트래픽 추가"
+
+    추가 트래픽 요금 보다 단독형 서버를 하나 더 추가하는 것이 더 낫습니다.
