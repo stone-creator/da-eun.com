@@ -238,7 +238,7 @@ nav:
   - Blog:
     - blog/index.md
     - 2022:
-      - blog/2022/재능마켓.md
+        - blog/2022/2022-04-21-재능마켓.md
 
 extra_css:
   - stylesheets/extra.css
