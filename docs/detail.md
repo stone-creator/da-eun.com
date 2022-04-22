@@ -5,7 +5,7 @@
 | <div style="width: 300px;">항목</div> | <div style="width: 300px;">내용</div> |
 | :---:  | :---: |
 | **IDC 위치** | [아마존 웹 서비스(aws):octicons-link-external-24:](https://aws.amazon.com/){target=_blank} |
-| **내 서버 IP 확인** | [IP look up service:octicons-link-external-24:](https://whatismyipaddress.com/ip-lookup){target=_blank} |
+| **나의 서버 IP 조회** | [IP look up service:octicons-link-external-24:](https://whatismyipaddress.com/ip-lookup){target=_blank} |
 
 ## 2. 서비스
 
