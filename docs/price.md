@@ -18,6 +18,7 @@
 | :material-check: CPU 2Core \| 메모리 8GB \| SSD 160GB \| 트래픽 2TB | 480,000원 |
 | :material-check: CPU 4Core \| 메모리 16GB \| SSD 320GB \| 트래픽 3TB | 960,000원 |
 | :material-check: CPU 8Core \| 메모리 32GB \| SSD 640GB \| 트래픽 4TB | 1,920,000원 |
+| :material-check: SSD 100GB 추가 | 100,000원 |
 | :material-check: 트래픽 1TB 추가 | 100,000원 |
 
 !!! info "알림"
