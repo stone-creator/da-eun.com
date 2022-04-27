@@ -5,30 +5,29 @@
 | <div style="width: 300px;">항목</div> | <div style="width: 300px;">내용</div> |
 | :---:  | :---: |
 | **IDC 위치** | [아마존 웹 서비스(aws):octicons-link-external-24:](https://aws.amazon.com/){target=_blank} |
-| **나의 서버 IP 조회** | [IP look up service:octicons-link-external-24:](https://whatismyipaddress.com/ip-lookup){target=_blank} |
+| **IP로 나의 서버 IDC 조회** | [IP look up service:octicons-link-external-24:](https://whatismyipaddress.com/ip-lookup){target=_blank} |
 
 ## 2. 서비스
 
-| <div style="width: 300px;">항목</div> | <div style="width: 300px;">내용</div> |
+| <div style="width: 200px;">항목</div> | <div style="width: 400px;">내용</div> |
 | :---:  | :---: |
 | **웹사이트 개수** | 무제한 |
-| **웹사이트 용량** | 계정용량에 포함 |
+| **웹사이트 용량** | 서버 용량 내 |
 | **도메인 연결** | 무제한 |
 | **서브도메인 연결** | 무제한 |
 | **데이터베이스 개수** | 무제한 |
-| **데이터베이스 용량** | 계정용량에 포함 |
-| **DB max_user_connections** | 30 |
+| **데이터베이스 용량** | 서버 용량 내 |
 | **이메일 개수** | 무제한 |
 | **이메일 별칭(Alias)** | 무제한 |
-| **이메일 용량** | 계정용량에 포함 |
+| **이메일 용량** | 서버 용량 내 |
 | **SSL/TLS(HTTPS)** | 무료지원 |
-| **SSH/FTP/SFTP** | 사용가능 |
+| **FTP** | 사용가능 |
 | **phpMyAdmin** | 포함 |
 | **관리툴** | 포함 |
 | **백업툴** | 포함 |
 | **웹로그 분석** | 포함 |
 | **백업** | 1일 1회, 7일 보관 |
-| **초과사용** | 용량이나 트래픽이 초과되어도 차단되지 않습니다. |
+| **초과사용** | 차단없이 선결제 후 이용할 수 있습니다. |
 
 ## 3. 버전
 
