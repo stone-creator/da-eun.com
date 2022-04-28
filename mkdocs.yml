@@ -24,7 +24,7 @@ site_url: https://hosting.da-eun.com/
 site_author: Da-eun
 site_description: >-
   웹사이트, 도메인 연결, 데이터베이스, 이메일 등을 무제한 추가할 수 있는 호스팅을 제공합니다.
-  관리툴은 간단하게 필요한 기능들로만 이루어져 있어 쉽게 사용할 수 있습니다.
+  서버에 대한 지식없이도 관리툴을 이용하여 쉽게 이용할 수 있습니다.
 
 # Repository
 repo_name: stone-creator/mkdocs-material
