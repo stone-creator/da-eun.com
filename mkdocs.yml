@@ -55,7 +55,7 @@ theme:
     - content.code.annotate
     # - content.tabs.link
     # - header.autohide
-    # - navigation.expand
+    - navigation.expand
     - navigation.indexes
     # - navigation.instant
     - navigation.sections
@@ -92,6 +92,7 @@ theme:
 # Plugins
 plugins:
   - search
+  - git-revision-date-localized
   # - redirects:
   #     redirect_maps:
   #       changelog/insiders.md: insiders/changelog.md
@@ -102,6 +103,9 @@ plugins:
   #       upgrading.md: upgrade.md
   - minify:
       minify_html: true
+  - blogging:
+      dirs: # The directories to be included
+        - blog
 
 # Customization
 extra:
@@ -227,28 +231,28 @@ markdown_extensions:
 #       - blog/2021/excluding-content-from-search.md
 #       - blog/2021/search-better-faster-smaller.md
 
-nav:
-  - Home: index.md
-  # - Intro: intro.md
-  - Price:
-    - price/price.md
-    - price/price_more.md
-  - Detail: detail.md
-  # - Support: support.md
-  - Docs: docs.md
-  - Chat: https://da-eun.channel.io" target="_blank
-  - Support: https://support.da-eun.com" target="_blank
-  - Contact: contact.md
-  - Privacy: privacy.md
-  - Terms: terms.md
-  - Blog:
-    - blog/index.md
-    - 2022:
-      - blog/2022/index.md
-      - blog/2022/2022-05-02-프리랜서-사이트.md
-      - blog/2022/2022-05-02-웹디자이너-프리랜서-사이트-목록.md
-      - blog/2022/2022-04-23-다은-호스팅-특징.md
-      - blog/2022/2022-04-21-프리랜서-웹디자이너를-위한-재능마켓-종류.md
+# nav:
+#   - Home: index.md
+#   # - Intro: intro.md
+#   - Price:
+#     - price/price.md
+#     - price/price_more.md
+#   - Detail: detail.md
+#   # - Support: support.md
+#   - Docs: docs.md
+#   - Chat: https://da-eun.channel.io" target="_blank
+#   - Support: https://support.da-eun.com" target="_blank
+#   - Contact: contact.md
+#   - Terms: terms.md
+#   - Privacy: privacy.md
+#   - Blog: blog
+#     # - 2022년:
+#     #   - 5월:
+#     #     - blog/2022/2022-05-02-프리랜서-사이트.md
+#     #     - blog/2022/2022-05-02-웹디자이너-프리랜서-사이트-목록.md
+#     #   - 4월:
+#     #     - blog/2022/2022-04-23-다은-호스팅-특징.md
+#     #     - blog/2022/2022-04-21-프리랜서-웹디자이너를-위한-재능마켓-종류.md
 
 extra_css:
   - stylesheets/extra.css
