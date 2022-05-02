@@ -91,23 +91,44 @@ theme:
 
 # Plugins
 plugins:
+  # - tags:
+  #     tags_file: tags.md
   - search
   - git-revision-date-localized:
       type: iso_datetime
       timezone: Asia/Seoul
+      enable_creation_date: true
   # - redirects:
   #     redirect_maps:
-  #       changelog/insiders.md: insiders/changelog.md
-  #       conventions.md: philosophy.md
-  #       reference/meta-tags.md: reference/index.md
-  #       reference/variables.md: https://mkdocs-macros-plugin.readthedocs.io/
-  #       sponsorship.md: insiders/index.md
-  #       upgrading.md: upgrade.md
+  #       01.md: pages/price.md
+  #       02.md: pages/detail.md
+  #       03.md: pages/docs.md
+  #       04.md: https://da-eun.channel.io
+  #       05.md: https://support.da-eun.com
+  #       06.md: pages/contact.md
+  #       07.md: pages/terms.md
+  #       08.md: pages/privacy.md
   - minify:
       minify_html: true
   - blogging:
       dirs: # The directories to be included
         - blog
+      # theme:
+      #   name: card
+      features:
+        tags:
+          index_page: blog/tags.md
+          insert: top
+      # INDIVIDUAL CATEGORIES: configs for {{ blog_content name }}
+      # categories:
+      #   - name: blog
+      #     dirs:
+      #       - blog/blog
+      #     # size: 5      categories:
+      #   - name: review
+      #     dirs:
+      #       - blog/review
+      #     # size: 5
 
 # Customization
 extra:
@@ -247,14 +268,11 @@ markdown_extensions:
 #   - Contact: contact.md
 #   - Terms: terms.md
 #   - Privacy: privacy.md
-#   - Blog: blog
-#     # - 2022년:
-#     #   - 5월:
-#     #     - blog/2022/2022-05-02-프리랜서-사이트.md
-#     #     - blog/2022/2022-05-02-웹디자이너-프리랜서-사이트-목록.md
-#     #   - 4월:
-#     #     - blog/2022/2022-04-23-다은-호스팅-특징.md
-#     #     - blog/2022/2022-04-21-프리랜서-웹디자이너를-위한-재능마켓-종류.md
+#   - Blog:
+#     - blogs/blog/index.md
+#     - blogs/review/index.md
+#     - blogs/tags.md
+#     - blogs/review/okay.md
 
 extra_css:
   - stylesheets/extra.css
