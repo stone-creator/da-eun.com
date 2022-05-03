@@ -8,9 +8,9 @@ title: Price
 
 	VAT 포함   
 
-## 1. 웹 서버
+## 1. 단독/독립 웹 호스팅
 
-### 1.1. 웹 서버 요금
+### 1.1. 단독/독립 웹 호스팅 요금
 
 | <div style="width: 440px;">사양</div> | <div style="width: 150px;">가격(월)</div> |
 | :---: | :---: |
@@ -30,14 +30,14 @@ title: Price
 
 ### 1.3. 백업 요금
 
-| <div style="width: 225px;">내용</div> | <div style="width: 95px;">가격(월)</div> | <div style="width: 95px;">계정 백업</div> | <div style="width: 95px;">서버전체 백업</div> |
+| <div style="width: 225px;">내용</div> | <div style="width: 95px;">가격(월)</div> | <div style="width: 95px;">계정 백업</div> | <div style="width: 95px;">호스팅전체 백업</div> |
 | :---: | :---: | :---: | :---: |
 | :material-check: 내부 백업 | 무료 | 포함 | 미포함 |
 | :material-check: 외부 백업 10GB | 7,000원 | 포함 | 포함 |
 
-## 2. 이메일 서버
+## 2. 단독/독립 이메일 호스팅
 
-### 2.1. 이메일 서버 요금
+### 2.1. 단독/독립 이메일 호스팅 요금
 
 | <div style="width: 360px;">사양</div> | <div style="width: 74px;">가격(월)</div> | <div style="width: 103px;">전문 검색 엔진</div> |
 | :---: | :---: | :---: |
@@ -57,14 +57,14 @@ title: Price
 
 ### 2.3. 백업 요금
 
-| <div style="width: 145px;">내용</div> | <div style="width: 125px;">가격(월)</div> | <div style="width: 125px;">계정 백업</div> | <div style="width: 125px;">서버 전체 백업</div> |
+| <div style="width: 145px;">내용</div> | <div style="width: 125px;">가격(월)</div> | <div style="width: 125px;">계정 백업</div> | <div style="width: 125px;">호스팅 전체 백업</div> |
 | :---: | :---: | :---: | :---: |
 | :material-check: 내부 백업 | 무료 | 포함 | 미포함 |
 | :material-check: 외부 백업 10GB | 7,000원 | 포함 | 포함 |
 
-## 3. 데이터베이스 서버
+## 3. 단독/독립 데이터베이스 호스팅
 
-### 3.1. 데이터베이스 서버 요금
+### 3.1. 단독/독립 데이터베이스 호스팅 요금
 
 | <div style="width: 360px;">사양</div> | <div style="width: 80px;">표준(월)</div> | <div style="width: 100px;">고가용성(월)</div> |
 | :---: | :---: | :---: |
