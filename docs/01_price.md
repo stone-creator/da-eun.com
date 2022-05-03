@@ -8,7 +8,7 @@ title: Price
 
 	VAT 포함   
 
-## 1. 웹/이메일 호스팅 요금
+## 1. 웹/이메일 단독/독립 호스팅 요금
 
 | <div style="width: 440px;">사양</div> | <div style="width: 150px;">가격(월)</div> |
 | :---: | :---: |
