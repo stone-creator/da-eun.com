@@ -2,57 +2,57 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://hosting.da-eun.com/</loc>
-         <lastmod>2022-05-02</lastmod>
+         <lastmod>2022-05-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://hosting.da-eun.com/contact/</loc>
-         <lastmod>2022-05-02</lastmod>
+         <loc>https://hosting.da-eun.com/01_price/</loc>
+         <lastmod>2022-05-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://hosting.da-eun.com/detail/</loc>
-         <lastmod>2022-05-02</lastmod>
+         <loc>https://hosting.da-eun.com/02_detail/</loc>
+         <lastmod>2022-05-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://hosting.da-eun.com/docs/</loc>
-         <lastmod>2022-05-02</lastmod>
+         <loc>https://hosting.da-eun.com/03_docs/</loc>
+         <lastmod>2022-05-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://hosting.da-eun.com/price/</loc>
-         <lastmod>2022-05-02</lastmod>
+         <loc>https://hosting.da-eun.com/04_contact/</loc>
+         <lastmod>2022-05-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://hosting.da-eun.com/price_more/</loc>
-         <lastmod>2022-05-02</lastmod>
+         <loc>https://hosting.da-eun.com/05_terms/</loc>
+         <lastmod>2022-05-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://hosting.da-eun.com/privacy/</loc>
-         <lastmod>2022-05-02</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://hosting.da-eun.com/terms/</loc>
-         <lastmod>2022-05-02</lastmod>
+         <loc>https://hosting.da-eun.com/06_privacy/</loc>
+         <lastmod>2022-05-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hosting.da-eun.com/blog/</loc>
-         <lastmod>2022-05-02</lastmod>
+         <lastmod>2022-05-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hosting.da-eun.com/blog/tags/</loc>
-         <lastmod>2022-05-02</lastmod>
+         <lastmod>2022-05-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hosting.da-eun.com/blog/2022/05/2022-05-03-%ED%94%84%EB%A6%AC%EB%9E%9C%EC%84%9C-%EC%9B%B9%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88%EB%A5%BC-%EC%9C%84%ED%95%9C-%ED%94%84%EB%A6%AC%EB%9E%9C%EC%84%9C-%EC%82%AC%EC%9D%B4%ED%8A%B8/</loc>
-         <lastmod>2022-05-02</lastmod>
+         <lastmod>2022-05-03</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://hosting.da-eun.com/blog/pages/price/</loc>
+         <lastmod>2022-05-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
