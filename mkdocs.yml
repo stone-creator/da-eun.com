@@ -23,7 +23,7 @@ site_name: 다은 호스팅
 site_url: https://hosting.da-eun.com/
 site_author: Da-eun
 site_description: >-
-  웹사이트, 이메일 등을 무제한 추가할 수 있는 단독/독립 호스팅을 제공합니다.
+  웹사이트, 이메일 등을 무제한 추가할 수 있는 아마존 aws 단독/독립 호스팅을 제공합니다.
   서버에 대한 지식없이도 관리툴을 이용하여 손쉽게 이용할 수 있습니다.
 
 # Repository
