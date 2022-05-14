@@ -34,4 +34,6 @@ title: Price
 | :material-check: 내부 백업 | 무료 | 포함 | 미포함 |
 | :material-check: 외부 백업 10GB | 7,000원 | 포함 | 포함 |
 
+[호스팅 상세 설명 보기](02_detail.md){ .md-button }
+
 [요금 전체 보기](blog/pages/price.md){ .md-button }
