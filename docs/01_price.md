@@ -12,9 +12,9 @@ title: Price
 
 | <div style="width: 440px;">사양</div> | <div style="width: 150px;">가격(월)</div> |
 | :---: | :---: |
-| :material-check: CPU 1Core \| 메모리 1GB \| SSD 40GB \| 트래픽 500GB | 48,000원 |
-| :material-check: CPU 1Core \| 메모리 2GB \| SSD 60GB \| 트래픽 1,000GB | 96,000원 |
-| :material-check: CPU 2Core \| 메모리 4GB \| SSD 80GB \| 트래픽 1,500GB | 192,000원 |
+| :material-check: CPU 1Core \| 메모리 1GB \| SSD 40GB \| 트래픽 500GB | 53,000원 |
+| :material-check: CPU 1Core \| 메모리 2GB \| SSD 60GB \| 트래픽 1,000GB | 106,000원 |
+| :material-check: CPU 2Core \| 메모리 4GB \| SSD 80GB \| 트래픽 1,500GB | 212,000원 |
 
 !!! note "이메일 호스팅 전문 검색 엔진"
 
