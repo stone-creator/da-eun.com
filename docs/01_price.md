@@ -24,15 +24,15 @@ title: Price
 
 | <div style="width: 290px;">내용</div> | <div style="width: 290px;">가격(월)</div> |
 | :---: | :---: |
-| :material-check: 트래픽 100GB | 25,000원 |
-| :material-check: SSD 40GB | 10,000원 |
+| :material-check: 트래픽 100GB | 27,500원 |
+| :material-check: SSD 40GB | 11,000원 |
 
 ## 3. 백업 요금
 
 | <div style="width: 145px;">내용</div> | <div style="width: 125px;">가격(월)</div> | <div style="width: 125px;">계정 백업</div> | <div style="width: 125px;">호스팅 전체 백업</div> |
 | :---: | :---: | :---: | :---: |
 | :material-check: 내부 백업 | 무료 | 포함 | 미포함 |
-| :material-check: 외부 백업 10GB | 7,000원 | 포함 | 포함 |
+| :material-check: 외부 백업 10GB | 7,700원 | 포함 | 포함 |
 
 [호스팅 상세 설명 보기](02_detail.md){ .md-button }
 
